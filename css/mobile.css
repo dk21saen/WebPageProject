@@ -1,0 +1,15 @@
+/* 
+	Less than 500px
+	Use these styles up to a max width of 500px;
+*/
+@media (max-width: 500px) {
+	main {
+		width: 100%;
+		box-sizing: border-box; 	
+	}
+		
+	nav, article, aside{
+		display: block;
+		width: 100%;
+	}
+}

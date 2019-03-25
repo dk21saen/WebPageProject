@@ -1,0 +1,21 @@
+/* 
+	Greater than 1100px
+	Use these styles down to a min width of 1100px
+*/
+@media (min-width: 1100px) {
+	main {
+		width: 1000px;	
+	}
+	
+	nav {
+		width: 300px;	
+	}
+	
+	article {
+		width: 500px;	
+	}
+	
+	aside {
+		width: 200px;	
+	}
+}

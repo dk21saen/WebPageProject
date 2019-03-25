@@ -1,0 +1,34 @@
+body {
+	background-color: black;
+}
+
+header, nav, article, aside, footer {
+	box-sizing: border-box; 
+}
+
+main {
+	width: 90%;
+	margin: 40px auto;
+	overflow: auto;
+	box-sizing: content-box;		
+}
+
+nav, article, aside {
+	float: left;
+}
+
+nav {
+	width: 30%;	
+}
+
+article {
+	width: 50%;
+}
+
+aside {
+	width: 20%;	
+}
+
+footer {
+	clear: left;
+}

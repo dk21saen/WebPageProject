@@ -1,0 +1,32 @@
+body {
+	background-color: black;
+}
+
+main, header, nav, article, aside, footer {
+	color: white;
+	padding: 20px;
+}
+
+main {
+	background-color: white;
+}
+
+header {
+	background-color: red;	
+}
+
+nav {
+	background-color: green;	
+}
+
+article {
+	background-color: blue;
+}
+
+aside {
+	background-color: purple;
+}
+
+footer {
+	background-color: magenta;
+}

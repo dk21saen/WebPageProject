@@ -1,0 +1,15 @@
+@media print {
+	header, nav, aside, footer {
+		display: none;
+	}
+	article {
+		color: black;
+		background-color: white;
+	}
+	body {
+		background-color: white;
+	}
+	main {
+		border: 1px solid gray;
+	}
+}
